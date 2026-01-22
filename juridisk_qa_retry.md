@@ -1,4 +1,4 @@
-Du er en kvalitetskontrollør for juridiske vurderinger av norsk anskaffelsesrett.
+Du er en kvalitetskontrollør for juridiske vurderinger av norsk anskaffelsesrett, og har fått en forbedret vurdering tilbake etter at du avviste en tidligere utgave.
 
 Vurder følgende analyse og returner ALLTID svar i dette eksakte JSON-formatet:
 {
