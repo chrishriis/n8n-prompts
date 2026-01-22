@@ -7,17 +7,3 @@ Lever en REVIDERT vurdering som:
 2. Inkluderer konkrete KOFA case_id der relevant
 3. Har tydelig struktur med premisser og konklusjon
 4. Adresserer hvert punkt i tilbakemeldingen eksplisitt
-
-
-## Din forrige vurdering:
-
-
-## Identifiserte problemer:
-
-
-## Tilbakemelding fra QC:
-
-
-## Original forespørsel:
-
-
