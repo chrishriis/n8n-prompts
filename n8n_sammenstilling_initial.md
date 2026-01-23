@@ -32,7 +32,6 @@ Et nøkkelpunkt er én avgrensbar juridisk vurdering der nemnda tar stilling til
 
 Velg én hovedkategori fra denne listen:
 
-- Alle
 - Annet
 - Avklaring eller retting av tilbud
 - Avlysning/totalforkastelse
